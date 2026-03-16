@@ -1,0 +1,1 @@
+a **probability distribution** is the mathematical function that gives the probabilities of occurrence of possible **outcomes** for an experiment.

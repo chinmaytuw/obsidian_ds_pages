@@ -1,0 +1,1 @@
+We see the exponential e or the [[Euler]] number** appear a lot of times in different fields. Its numerical value is ~2.71. One way to think of it is in the equation below. As we increase the value of n, the equation converges to 2.71. **Another property of e is that it is its own [[derivatives]]**.
